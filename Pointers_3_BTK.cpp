@@ -1,4 +1,4 @@
-//BTK akademi C programlama eðitimi 19.02.2023
+//BTK akademi C programlama eðitimi 20.02.2024
 //Onur ALACA
 
 //Ýþaretçiler...
