@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Onur ALACA - 04.03.2024 - Basic Calculator
+
 int main() {
     char operand;
     double num1, num2;
